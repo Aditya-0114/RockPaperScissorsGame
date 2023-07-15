@@ -11,7 +11,7 @@ This repository contains a Python implementation of the classic game, Rock Paper
 
 ## How to Play
 1. Clone the repository to your local machine.
-2. Run the `rock_paper_scissors.py` file in a Python environment.
+2. Run the code in a Java environment.
 3. Follow the on-screen prompts to make your move (rock, paper, or scissors).
 4. See if you win, lose, or tie against the computer.
 5. Play again to improve your score and test different strategies.
